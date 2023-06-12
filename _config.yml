@@ -40,9 +40,9 @@ card:
      Structural Biology graduate student
         
     iconLinks:
-     github: https://github.com/winewithbiscuits
-     twitter: https://twitter.com/nikoRyu1
-     researchgate: https://t.co/owdqoPzTqV
+     /github: https://github.com/winewithbiscuits
+     /twitter: https://twitter.com/nikoRyu1
+     /researchgate: https://t.co/owdqoPzTqV
     friendLinks:
         For now: https://github.com/winewithbiscuits
 
@@ -51,7 +51,7 @@ footer:
     since: 2023
     # Customize the server domain name ICP
     ICP:
-        enable: false
+        enable: flase
         code:
         link:
 
@@ -82,7 +82,7 @@ crypto:
 
 # Search
 search:
-    enable: true
+    enable: false
 
 # Giscus
 # https://github.com/giscus/giscus
