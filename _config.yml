@@ -5,7 +5,7 @@
 avatar: /images/avatar.png
 
 # Favicon
-favicon: /images/favicon.png
+favicon: /images/favicon.ico
 
 # Home page background image
 background:
@@ -23,11 +23,7 @@ menu:
     About:
         name: id-card
         theme: solid
-        link: /about
-    Archives:
-        name: box-archive
-        theme: solid
-        link: /archives
+        link: /About
     Categories:
         name: bookmark
         theme: solid
@@ -36,23 +32,27 @@ menu:
         name: tags
         theme: solid
         link: /tags
+    Archive:
+        name: archive
+        theme: solid
+        link: /archive
 
 # Side info card
 card:
     enable: true
     description: |
-        Description
-        ...
+     Structural Biology graduate student
+        
     iconLinks:
     friendLinks:
-        Argvchs: https://argvchs.github.io
+        For now: https://github.com/winewithbiscuits
 
 # Footer info
 footer:
-    since: 2022
+    since: 2023
     # Customize the server domain name ICP
     ICP:
-        enable: false
+        enable: flase
         code:
         link:
 
@@ -67,11 +67,11 @@ polyfill:
 # https://highlightjs.org
 highlight:
     enable: true
-    style: github
+    style: Androidstudio
 
 # KaTeX math rendering
 math:
-    enable: false
+    enable: true
 
 # Image preview
 preview:
