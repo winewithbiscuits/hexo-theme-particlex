@@ -16,10 +16,7 @@ background:
 
 # Main menu navigation
 menu:
-    Home:
-        name: house
-        theme: solid
-        link: /
+
     About:
         name: id-card
         theme: solid
