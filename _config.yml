@@ -44,6 +44,7 @@ card:
      Graduate Student
         
     iconLinks:
+     <font-awesome-icon icon="fa-brands fa-discord" bounce />
     friendLinks:
         Github: https://github.com/winewithbiscuits
 
