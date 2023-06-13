@@ -5,7 +5,8 @@
 avatar: /images/avatar.png
 
 # Favicon
-favicon: /images/favicon.png
+favicon:
+    - /images/favicon.png
 
 # Home page background image
 background:
@@ -35,16 +36,14 @@ menu:
     Archive:
         name: archive
         theme: solid
-        link: /archive
+        link: /archives
 
 # Side info card
 card:
     enable: true
-    description: |
-     Graduate Student
-        
+    description:
+     Graduate Student 
     iconLinks:
-     <font-awesome-icon icon="fa-brands fa-discord" bounce />
     friendLinks:
         Github: https://github.com/winewithbiscuits
 
